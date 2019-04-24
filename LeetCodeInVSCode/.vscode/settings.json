@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "set": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "stack": "cpp",
+        "iosfwd": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "C_Cpp.default.cppStandard": "c++11",
+    "C_Cpp.default.cStandard": "c99",
+    "C_Cpp.default.forcedInclude": ["map", "vector", "set"]
+}
