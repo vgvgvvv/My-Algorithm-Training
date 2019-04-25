@@ -6,7 +6,8 @@
         "stack": "cpp",
         "iosfwd": "cpp",
         "__config": "cpp",
-        "__nullptr": "cpp"
+        "__nullptr": "cpp",
+        "vector": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled",
     "C_Cpp.default.cppStandard": "c++11",
