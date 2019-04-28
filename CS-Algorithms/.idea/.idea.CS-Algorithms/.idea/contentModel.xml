@@ -25,9 +25,11 @@
         <e p="BubbleSort.cs" t="Include" />
         <e p="HeapSort.cs" t="Include" />
         <e p="InsertSort.cs" t="Include" />
+        <e p="MergeSort.cs" t="Include" />
         <e p="QuickSort.cs" t="Include" />
         <e p="SelectSort.cs" t="Include" />
         <e p="ShellSort.cs" t="Include" />
+        <e p="SortHelper.cs" t="Include" />
       </e>
       <e p="String" t="Include">
         <e p="ACAutoMechine.cs" t="Include" />

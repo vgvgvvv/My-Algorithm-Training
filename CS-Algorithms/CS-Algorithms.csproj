@@ -51,9 +51,11 @@
     <Compile Include="Sort\BubbleSort.cs" />
     <Compile Include="Sort\HeapSort.cs" />
     <Compile Include="Sort\InsertSort.cs" />
+    <Compile Include="Sort\MergeSort.cs" />
     <Compile Include="Sort\QuickSort.cs" />
     <Compile Include="Sort\SelectSort.cs" />
     <Compile Include="Sort\ShellSort.cs" />
+    <Compile Include="Sort\SortHelper.cs" />
     <Compile Include="String\ACAutoMechine.cs" />
     <Compile Include="String\KmpSearch.cs" />
   </ItemGroup>
