@@ -29,10 +29,24 @@
  * 
  * 
  */
+
+#include<vector>
+
+using namespace std;
+
 class Solution {
 public:
-    vector<vector<int>> permute(vector<int>& nums) {
-        
+    //分治递归
+    vector<vector<int> > permute(vector<int>& nums, vector<int>& visit, int start, vector<int>& before){
+        //TODO
     }
+
+    vector<vector<int> > permute(vector<int>& nums) {
+        vector<vector<int> > result;
+        vector<int> start;
+        permute(nums, 0, start);
+    }
+
+    
 };
 

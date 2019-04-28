@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eeea58c9-3822-4ae2-baae-9cdb9ebab93a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="BinarySearch.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Search/BinarySearch.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="640">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding>
+                <marker date="1556444309216" expanded="true" signature="8:38" ph="..." />
+                <marker date="1556444309216" expanded="true" signature="67:1380" ph="{...}" />
+                <marker date="1556444309216" expanded="true" signature="137:204" ph="{...}" />
+                <marker date="1556444309216" expanded="true" signature="278:618" ph="{...}" />
+                <marker date="1556444309216" expanded="true" signature="303:337" ph="{...}" />
+                <marker date="1556444309216" expanded="true" signature="405:440" ph="{...}" />
+                <marker date="1556444309216" expanded="true" signature="466:538" ph="{...}" />
+                <marker date="1556444309216" expanded="true" signature="688:1056" ph="{...}" />
+                <marker date="1556444309216" expanded="true" signature="801:1031" ph="{...}" />
+                <marker date="1556444309216" expanded="true" signature="837:880" ph="{...}" />
+                <marker date="1556444309216" expanded="true" signature="906:948" ph="{...}" />
+                <marker date="1556444309216" expanded="true" signature="1104:1212" ph="{...}" />
+                <marker date="1556444309216" expanded="true" signature="1269:1377" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BubbleSort.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sort/BubbleSort.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding>
+                <marker date="1556444400203" expanded="true" signature="27:90" ph="{...}" />
+                <marker date="1556444400203" expanded="true" signature="67:88" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertSort.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sort/InsertSort.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding>
+                <marker date="1556444449523" expanded="true" signature="27:90" ph="{...}" />
+                <marker date="1556444449523" expanded="true" signature="67:88" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSort.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sort/QuickSort.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <marker date="1556444446797" expanded="true" signature="27:89" ph="{...}" />
+                <marker date="1556444446797" expanded="true" signature="66:87" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SelectSort.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sort/SelectSort.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <marker date="1556444452234" expanded="true" signature="27:90" ph="{...}" />
+                <marker date="1556444452234" expanded="true" signature="67:88" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShellSort.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sort/ShellSort.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <marker date="1556444454993" expanded="true" signature="27:89" ph="{...}" />
+                <marker date="1556444454993" expanded="true" signature="66:87" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeapSort.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sort/HeapSort.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+              <folding>
+                <marker date="1556444397727" expanded="true" signature="27:88" ph="{...}" />
+                <marker date="1556444397727" expanded="true" signature="65:86" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayList.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/List/ArrayList.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding>
+                <marker date="1556443716137" expanded="true" signature="1:20" ph="/* 向量数据结构 ... */" />
+                <marker date="1556443716137" expanded="true" signature="46:1678" ph="{...}" />
+                <marker date="1556443716137" expanded="true" signature="215:299" ph="{...}" />
+                <marker date="1556443716137" expanded="true" signature="341:578" ph="{...}" />
+                <marker date="1556443716137" expanded="true" signature="367:404" ph="{...}" />
+                <marker date="1556443716137" expanded="true" signature="464:506" ph="{...}" />
+                <marker date="1556443716137" expanded="true" signature="608:681" ph="{...}" />
+                <marker date="1556443716137" expanded="true" signature="711:867" ph="{...}" />
+                <marker date="1556443716137" expanded="true" signature="753:842" ph="{...}" />
+                <marker date="1556443716137" expanded="true" signature="791:832" ph="{...}" />
+                <marker date="1556443716137" expanded="true" signature="900:1099" ph="{...}" />
+                <marker date="1556443716137" expanded="true" signature="926:963" ph="{...}" />
+                <marker date="1556443716137" expanded="true" signature="1007:1053" ph="{...}" />
+                <marker date="1556443716137" expanded="true" signature="1132:1676" ph="{...}" />
+                <marker date="1556443716137" expanded="true" signature="1163:1368" ph="{...}" />
+                <marker date="1556443716137" expanded="true" signature="1250:1299" ph="{...}" />
+                <marker date="1556443716137" expanded="true" signature="1419:1661" ph="{...}" />
+                <marker date="1556443716137" expanded="true" signature="1508:1557" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/List/ArrayList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sort/QuickSort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sort/HeapSort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Search/BinarySearch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sort/SelectSort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sort/BubbleSort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sort/InsertSort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sort/ShellSort.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/List/ArrayList.cs" />
+        <option value="$PROJECT_DIR$/Search/BinarySearch.cs" />
+        <option value="$PROJECT_DIR$/Sort/HeapSort.cs" />
+        <option value="$PROJECT_DIR$/Sort/BubbleSort.cs" />
+        <option value="$PROJECT_DIR$/Sort/QuickSort.cs" />
+        <option value="$PROJECT_DIR$/Sort/InsertSort.cs" />
+        <option value="$PROJECT_DIR$/Sort/SelectSort.cs" />
+        <option value="$PROJECT_DIR$/Sort/ShellSort.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="7" />
+    <option name="y" value="24" />
+    <option name="width" value="2539" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CS-Algorithms (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CS-Algorithms (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CS-Algorithms" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CS-Algorithms (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CS-Algorithms" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="References" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CS-Algorithms (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CS-Algorithms" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Search" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CS-Algorithms (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CS-Algorithms" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Sort" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CS-Algorithms (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CS-Algorithms" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="String" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="nuget&#9;ACTION&#9;ActivateNuGetToolWindow" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eeea58c9-3822-4ae2-baae-9cdb9ebab93a" name="Default" comment="" />
+      <created>1556443410771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556443410771</updated>
+      <workItem from="1556443412987" duration="1061000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1061000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2560" height="989" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32997763" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32997763" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08260524" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Search/BinarySearch.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <marker date="1556444309216" expanded="true" signature="8:38" ph="..." />
+            <marker date="1556444309216" expanded="true" signature="67:1380" ph="{...}" />
+            <marker date="1556444309216" expanded="true" signature="137:204" ph="{...}" />
+            <marker date="1556444309216" expanded="true" signature="278:618" ph="{...}" />
+            <marker date="1556444309216" expanded="true" signature="303:337" ph="{...}" />
+            <marker date="1556444309216" expanded="true" signature="405:440" ph="{...}" />
+            <marker date="1556444309216" expanded="true" signature="466:538" ph="{...}" />
+            <marker date="1556444309216" expanded="true" signature="688:1056" ph="{...}" />
+            <marker date="1556444309216" expanded="true" signature="801:1031" ph="{...}" />
+            <marker date="1556444309216" expanded="true" signature="837:880" ph="{...}" />
+            <marker date="1556444309216" expanded="true" signature="906:948" ph="{...}" />
+            <marker date="1556444309216" expanded="true" signature="1104:1212" ph="{...}" />
+            <marker date="1556444309216" expanded="true" signature="1269:1377" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/List/ArrayList.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <marker date="1556443716137" expanded="true" signature="1:20" ph="/* 向量数据结构 ... */" />
+            <marker date="1556443716137" expanded="true" signature="46:1678" ph="{...}" />
+            <marker date="1556443716137" expanded="true" signature="215:299" ph="{...}" />
+            <marker date="1556443716137" expanded="true" signature="341:578" ph="{...}" />
+            <marker date="1556443716137" expanded="true" signature="367:404" ph="{...}" />
+            <marker date="1556443716137" expanded="true" signature="464:506" ph="{...}" />
+            <marker date="1556443716137" expanded="true" signature="608:681" ph="{...}" />
+            <marker date="1556443716137" expanded="true" signature="711:867" ph="{...}" />
+            <marker date="1556443716137" expanded="true" signature="753:842" ph="{...}" />
+            <marker date="1556443716137" expanded="true" signature="791:832" ph="{...}" />
+            <marker date="1556443716137" expanded="true" signature="900:1099" ph="{...}" />
+            <marker date="1556443716137" expanded="true" signature="926:963" ph="{...}" />
+            <marker date="1556443716137" expanded="true" signature="1007:1053" ph="{...}" />
+            <marker date="1556443716137" expanded="true" signature="1132:1676" ph="{...}" />
+            <marker date="1556443716137" expanded="true" signature="1163:1368" ph="{...}" />
+            <marker date="1556443716137" expanded="true" signature="1250:1299" ph="{...}" />
+            <marker date="1556443716137" expanded="true" signature="1419:1661" ph="{...}" />
+            <marker date="1556443716137" expanded="true" signature="1508:1557" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/BubbleSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1556444400203" expanded="true" signature="27:90" ph="{...}" />
+            <marker date="1556444400203" expanded="true" signature="67:88" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/HeapSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <marker date="1556444397727" expanded="true" signature="27:88" ph="{...}" />
+            <marker date="1556444397727" expanded="true" signature="65:86" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/QuickSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <marker date="1556444446797" expanded="true" signature="27:89" ph="{...}" />
+            <marker date="1556444446797" expanded="true" signature="66:87" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/InsertSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1556444449523" expanded="true" signature="27:90" ph="{...}" />
+            <marker date="1556444449523" expanded="true" signature="67:88" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/SelectSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <marker date="1556444452234" expanded="true" signature="27:90" ph="{...}" />
+            <marker date="1556444452234" expanded="true" signature="67:88" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/ShellSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <marker date="1556444454993" expanded="true" signature="27:89" ph="{...}" />
+            <marker date="1556444454993" expanded="true" signature="66:87" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
