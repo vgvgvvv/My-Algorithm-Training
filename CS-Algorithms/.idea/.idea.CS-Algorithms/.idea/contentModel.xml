@@ -34,6 +34,7 @@
       <e p="String" t="Include">
         <e p="ACAutoMechine.cs" t="Include" />
         <e p="KmpSearch.cs" t="Include" />
+        <e p="SimpleSearch.cs" t="Include" />
       </e>
       <e p="Tree" t="Include" />
     </e>

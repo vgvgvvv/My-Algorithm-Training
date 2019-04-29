@@ -58,6 +58,7 @@
     <Compile Include="Sort\SortHelper.cs" />
     <Compile Include="String\ACAutoMechine.cs" />
     <Compile Include="String\KmpSearch.cs" />
+    <Compile Include="String\SimpleSearch.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Heap" />
