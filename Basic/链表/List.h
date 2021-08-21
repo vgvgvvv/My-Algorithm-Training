@@ -26,6 +26,7 @@ struct List {
 
     void push_head(int value);
     void push_back(int value);
+    int get(int index);
     void remove(int value);
     void remove_at(int index);
     void reverse();
@@ -63,6 +64,22 @@ void List::push_back(int value) {
      node->next = tail;
      start->next = node;
 
+}
+
+int List::get(int index) {
+    ListNode* current = head->next;
+    int currentIndex = 0;
+    while(index != currentIndex){
+        if(current == tail){
+            return -1;
+        }
+        current = current->next;
+        currentIndex++;
+    }
+    if(current == tail){
+        return -1;
+    }
+    return current->val;
 }
 
 void List::remove(int value) {
