@@ -33,6 +33,7 @@ struct BinaryTree {
         }
     }
     
+    // 前序遍历
     void print_preorder() {
         std::cout << val << ", ";
         if(left){
@@ -47,6 +48,7 @@ struct BinaryTree {
         }
     }
     
+    // 中序遍历
     void print_midorder() {
         if(left){
             left->print_midorder();
@@ -61,6 +63,7 @@ struct BinaryTree {
         }
     }
 
+    //后续遍历
     void print_postorder() {
         if(left){
             left->print_postorder();
@@ -73,5 +76,9 @@ struct BinaryTree {
             std::cout << "null" << ", ";
         }
         std::cout << val << ", ";
+    }
+
+    void print_levelorder() {
+        
     }
 };
